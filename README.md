@@ -60,5 +60,5 @@ I am a Marketing Lead in Google developers student clubs, Youth ambassador of Wo
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+
   
